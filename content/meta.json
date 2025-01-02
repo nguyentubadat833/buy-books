@@ -4,14 +4,18 @@
     "topRightContent": "0933689491 - 0896119745",
     "banner": {
       "image": "/images/BANNER.jpg",
-      "content": ["Bạn có sách cũ không dùng nữa ?", "LIÊN HỆ CHÚNG TÔI NGAY", "0933689491 - 0896119745"]
+      "content": [
+        "Bạn có sách cũ không dùng nữa ?",
+        "LIÊN HỆ CHÚNG TÔI NGAY",
+        "0933689491 - 0896119745"
+      ]
     }
   },
   "footer": {
     "main": "Copyright 2024 © Thu mua sách cũ"
   },
   "site": {
-    "zalo": "0908269456",
+    "zalo": "0933689491",
     "namePage": "THU MUA SÁCH CŨ - GÂY DỰNG TỦ SÁCH TRẺ EM",
     "avatarPage": "/images/BANNER.jpg",
     "menu": [
